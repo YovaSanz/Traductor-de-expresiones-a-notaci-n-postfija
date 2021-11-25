@@ -1,6 +1,6 @@
 # Traductor de expresiones a notación polaca
-    Es software permite ingresar una expresión aritmética con suma, resta, multiplicación, división, potencia y el uso de agrupación de expresiones por medio de paréntesis.
-    Y obtiene el resultado de la operación y su equivalente en notación postfija o notación polaca inversa.
+Es software permite ingresar una expresión aritmética con suma, resta, multiplicación, división, potencia y el uso de agrupación de expresiones por medio de paréntesis.
+Y obtiene el resultado de la operación y su equivalente en notación postfija o notación polaca inversa.
 
 
 ## Entorno de desarrollo:
